@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankConsole1/BankConsole1.csproj" />
+  <Project Path="BankConsoleTest/BankConsoleTest.csproj" Id="5fbc49fe-cae4-4e45-a845-111a68de2dc2" />
+</Solution>

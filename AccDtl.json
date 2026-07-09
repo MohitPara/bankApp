@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Mohit",
+    "Date": "12-05-2026",
+    "Balance": 8,
+    "AccNo": 552309,
+    "Addres": {
+      "Pin": 123,
+      "City": "kudal",
+      "State": "sindhu"
+    }
+  },
+  {
+    "Name": "kuna",
+    "Date": "17-05-2026",
+    "Balance": 0,
+    "AccNo": 391422,
+    "Addres": {
+      "Pin": 22335,
+      "City": "jalgav",
+      "State": "dule"
+    }
+  },
+  {
+    "Name": "mohiy python",
+    "Date": "04/06/2026",
+    "Balance": 0,
+    "AccNo": 212331,
+    "Addres": {
+      "Pin": 416520,
+      "City": "punep",
+      "State": "wagholi"
+    }
+  }
+]

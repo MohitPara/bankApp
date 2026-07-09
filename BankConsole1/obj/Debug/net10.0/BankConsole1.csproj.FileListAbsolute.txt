@@ -1,0 +1,14 @@
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\bin\Debug\net10.0\BankConsole1.exe
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\bin\Debug\net10.0\BankConsole1.deps.json
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\bin\Debug\net10.0\BankConsole1.runtimeconfig.json
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\bin\Debug\net10.0\BankConsole1.dll
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\bin\Debug\net10.0\BankConsole1.pdb
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.AssemblyInfoInputs.cache
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.AssemblyInfo.cs
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.csproj.CoreCompileInputs.cache
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.dll
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\refint\BankConsole1.dll
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.pdb
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\BankConsole1.genruntimeconfig.cache
+C:\Users\mohit.parab\source\repos\BankConsole1\BankConsole1\obj\Debug\net10.0\ref\BankConsole1.dll
