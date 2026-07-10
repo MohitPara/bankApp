@@ -19,4 +19,11 @@ namespace BankConsole1.Dtos
         public string? City { get; set; }
         public string? State { get; set; }
     }
+
+    public class AddresInfotest
+    {
+        public int? Pin { get; set; }
+        public string? City { get; set; }
+        public string? State { get; set; }
+    }
 }
