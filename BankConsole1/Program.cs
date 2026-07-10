@@ -34,6 +34,7 @@ while (true)
         else if (option == "3")
         {
             optionsEngine.DeleteAcc();
+            optionsEngine.DeleteAcc();//Dev02
         }
         else if (option == "4")
         {
