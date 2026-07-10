@@ -30,6 +30,7 @@ while (true)
         else if (option == "2")
         {
             optionsEngine.UpdateAcc();
+            optionsEngine.UpdateAcc();//Dev01
         }
         else if (option == "3")
         {
