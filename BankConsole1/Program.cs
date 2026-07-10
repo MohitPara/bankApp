@@ -17,6 +17,9 @@ while (true)
     Console.Write("Choose your option: ");
     string? option = Console.ReadLine();
 
+    //Dev01
+    string? optiontest = Console.ReadLine();
+
     if (!string.IsNullOrEmpty(option))
     {
         if (option == "1")
